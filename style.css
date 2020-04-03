@@ -1,0 +1,13 @@
+.col {
+	background-color: grey;
+	border: 2px solid black;
+
+
+}
+
+body {
+  background-image: url('image/fondo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
